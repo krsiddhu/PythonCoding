@@ -1,4 +1,4 @@
-# Find given number is Prime Number or not
+# Find given number is Prime Number or not.
 def IsPrime(num):
 
     isPrime = True
